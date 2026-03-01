@@ -13,21 +13,18 @@ public class Car {
         this.mileage = mileage;
 
     }
-
     public String getCompany_name(){
         return company_name;
     }
     public void setCompany_name(String company_name) {
         this.company_name = company_name;
     }
-
     public String getModel_name(){
         return model_name;
     }
     public void setModel_name(String model_name) {
         this.model_name = model_name;
     }
-
     public int getYear() {
         return year;
     }
